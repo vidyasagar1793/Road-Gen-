@@ -18,9 +18,7 @@ The AI model for this project was chosen based on its stability and performance.
 
 To use the AI model, follow these steps:
 
-1. *Clone the Repository*:
-  bash
-git clone https://github.com/PagalavanPagal66/AIED-Wizards.git
+1. *Clone the Repository*
   
 
 2. *Dependencies*:
